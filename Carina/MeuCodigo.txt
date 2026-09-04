@@ -1,0 +1,3 @@
+int vida = 5
+float vel = 5.5f
+int escudo = 3

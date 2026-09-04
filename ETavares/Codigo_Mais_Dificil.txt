@@ -1,0 +1,11 @@
+int vida = 4;
+
+if (vida == 4){
+
+vida -= 1; 
+print vida;
+} else {
+
+vida += 1;
+print vida;
+}
