@@ -1,0 +1,2 @@
+Int vida = 5;
+int atk = 1;
