@@ -1,2 +1,3 @@
-Int vida = 5;
-int atk = 1;
+int vida = 10;
+int atk = 2;
+int defesa =1;
